@@ -40,7 +40,7 @@ https://archive.eksworkshop.com/intermediate/290_argocd/install/
 ```
  environment {
     GIT_REPO_NAME = "Tetris-manifest"
-    GIT_USER_NAME = "Aj7Ay"
+    GIT_USER_NAME = "writetoritika"
   }
     stage('Checkout Code') {
       steps {
